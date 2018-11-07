@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mySupplyApp.Core", "mySupplyApp.Core\mySupplyApp.Core.csproj", "{D2B7EC32-3D43-4DF9-AF01-1D15DF3A0B74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mySupplyApp.Droid", "mySupplyApp.Droid\mySupplyApp.Droid.csproj", "{AC23E6B9-482D-44BD-8C27-34C87602464C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,12 @@ Global
 		{D2B7EC32-3D43-4DF9-AF01-1D15DF3A0B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2B7EC32-3D43-4DF9-AF01-1D15DF3A0B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2B7EC32-3D43-4DF9-AF01-1D15DF3A0B74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC23E6B9-482D-44BD-8C27-34C87602464C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC23E6B9-482D-44BD-8C27-34C87602464C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC23E6B9-482D-44BD-8C27-34C87602464C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AC23E6B9-482D-44BD-8C27-34C87602464C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC23E6B9-482D-44BD-8C27-34C87602464C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC23E6B9-482D-44BD-8C27-34C87602464C}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
